@@ -40,8 +40,4 @@ npm start
 1. UI Design: [Figma](https://www.figma.com/)
 1. Code Editor: [VS Code](https://code.visualstudio.com/)
 
-## Other projects
-
-📚 [All Web Cifar Project Tutorials](https://github.com/ShaifArfan/wc-project-tutorials)
-
 ---
