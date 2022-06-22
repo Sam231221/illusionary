@@ -73,6 +73,11 @@ function Footer() {
                 </Link>
               </li>
               <li>
+                <Link to="home" smooth>
+                  Contact
+                </Link>
+              </li>
+              <li>
                 <Link to="services" smooth>
                   Services
                 </Link>

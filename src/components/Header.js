@@ -186,6 +186,11 @@ export default function Header() {
                   </Link>
                 </li>
                 <li>
+                  <Link to="blog" smooth activeClass="active" spy>
+                    Blog
+                  </Link>
+                </li>
+                <li>
                   <Link to="services" smooth activeClass="active" spy>
                     Services
                   </Link>

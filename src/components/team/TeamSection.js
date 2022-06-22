@@ -61,18 +61,18 @@ function TeamSection() {
           <div className="team__members">
             <TeamMemberItem
               img={teamMember1}
-              name="Rasu"
-              title="Photo Editor"
+              name="John Does"
+              title="Designer"
             />
             <TeamMemberItem
               img={teamMember2}
-              name="Shaif Arfan"
+              name="Eliza winston"
               title="Photographer"
             />
             <TeamMemberItem
               img={teamMember3}
-              name="Ayan Bilai"
-              title="Photographer"
+              name="Ada Madson"
+              title="Videographer"
             />
           </div>
         </div>

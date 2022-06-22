@@ -54,6 +54,7 @@ function ContactSection() {
               type="text"
               label="name"
               name="name"
+              placeholder="Your Name"
               id="name"
               required
             />
@@ -61,6 +62,7 @@ function ContactSection() {
               type="email"
               label="Email"
               name="email"
+              placeholder="Email"
               id="email"
               required
             />
@@ -69,12 +71,14 @@ function ContactSection() {
               label="Subject"
               name="subject"
               id="subject"
+              placeholder="Subject"
               required
             />
             <FormField
               className="contact__field--fullWidth"
               label="Message"
               name="message"
+              placeholder="Message"
               id="message"
               rows="6"
             />
