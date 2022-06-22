@@ -58,11 +58,9 @@ function HeroSection() {
       <div className="container">
         <div className="hero__wrapper">
           <div className="hero__info">
-            <HeroTitle className="hero__title">
-              A click of artistic joy
-            </HeroTitle>
+            <HeroTitle className="hero__title">Life is a Paradise</HeroTitle>
             <ParagraphText className="hero__desc">
-              Because every picture tells a story, let us help you tell yours.
+              Capture every moment with us.
             </ParagraphText>
             <PrimaryButton
               buttonType={Link}
